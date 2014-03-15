@@ -2,7 +2,7 @@
   "name": "open-exchange-rates",
   "description": "Helper for pulling data from the openexchangerates.org api",
   "homepage": "https://github.com/usefulio/meteor-open-exchange-rates",
-  "author": "Ian Serlin (ian@useful.io)",
+  "author": "Ian Serlin (meteor@ianserlin.com)",
   "version": "0.1.0",
   "git": "https://github.com/usefulio/meteor-open-exchange-rates.git"
 }
